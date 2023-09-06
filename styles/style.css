@@ -1,0 +1,7 @@
+.man {
+    position: absolute;
+    margin-top: -60px;
+    margin-left: -60px;
+    border: 5px solid burlywood;
+    border-radius: 50px;
+}
